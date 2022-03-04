@@ -30,7 +30,7 @@ Julia v1.7 Packages:
 05_Analysis.jl
 ```
 ## Model Analysis:
-Model analysis was done in separate notebooks for each parameter and topic. Only one data file was uploaded to this repository ("paramscan_p_depolym_GDP_10ensemble.jls") and used in the "00_Introduction.ipynb" notebook as an example of how the collected data was structured and analyzed.
+Model analysis was done in separate notebooks for each parameter and topic. Only one data file was uploaded to this repository ("test_ensemblerun_xyz.jls") and used in the "00_Introduction.ipynb" notebook as an example of how the collected data was structured and analyzed.
 
 ## Presentation
 The power point presentation that was used to present the results created during this internship is included in this repository, as well ("Microtubule_Presentation_BV.pptx").
